@@ -1,0 +1,14 @@
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\bin\Debug\net8.0\Tutorial1.exe
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\bin\Debug\net8.0\Tutorial1.deps.json
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\bin\Debug\net8.0\Tutorial1.runtimeconfig.json
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\bin\Debug\net8.0\Tutorial1.dll
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\bin\Debug\net8.0\Tutorial1.pdb
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.AssemblyInfoInputs.cache
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.AssemblyInfo.cs
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.dll
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\refint\Tutorial1.dll
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.pdb
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\Tutorial1.genruntimeconfig.cache
+C:\Users\MSI KATANA\source\repos\Tutorial1\Tutorial1\obj\Debug\net8.0\ref\Tutorial1.dll

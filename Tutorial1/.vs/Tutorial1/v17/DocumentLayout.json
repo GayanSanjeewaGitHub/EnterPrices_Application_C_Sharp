@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI KATANA\\source\\repos\\Tutorial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B955B2E0-60C1-4EBF-AB77-EFC38B8FB154}|Tutorial1\\Tutorial1.csproj|c:\\users\\msi katana\\source\\repos\\tutorial1\\tutorial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B955B2E0-60C1-4EBF-AB77-EFC38B8FB154}|Tutorial1\\Tutorial1.csproj|solutionrelative:tutorial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\source\\repos\\Tutorial1\\Tutorial1\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\source\\repos\\Tutorial1\\Tutorial1\\Program.cs*",
+              "RelativeToolTip": "Tutorial1\\Program.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswGcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:42:34.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
