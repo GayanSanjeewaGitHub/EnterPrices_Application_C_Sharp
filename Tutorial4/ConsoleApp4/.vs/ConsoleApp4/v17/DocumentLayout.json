@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\tutorial4\\consoleapp4\\consoleapp4\\tutorial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\tutorial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\tutorial4\\consoleapp4\\consoleapp4\\tutorial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\tutorial4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\tutorial4\\consoleapp4\\consoleapp4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\tutorial4\\consoleapp4\\consoleapp4\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F77860-F950-46E9-B41A-26123784EA67}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Student.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Student.cs",
+              "RelativeToolTip": "ConsoleApp4\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:57:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tutorial2.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Tutorial2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Tutorial2.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Tutorial2.cs",
+              "RelativeToolTip": "ConsoleApp4\\Tutorial2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:59:51.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Professor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Professor.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Professor.cs",
+              "RelativeToolTip": "ConsoleApp4\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:33:21.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tutorial4.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Tutorial4.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Tutorial4.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Tutorial4\\ConsoleApp4\\ConsoleApp4\\Tutorial4.cs",
+              "RelativeToolTip": "ConsoleApp4\\Tutorial4.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:31:44.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
