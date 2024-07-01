@@ -1,0 +1,66 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Assignment_1.Models.AddActivityViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Activity</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Add Activity</h1>
+        <form method="post">
+            <div class="form-group">
+                <label class="form-label">Student Id</label>
+                <input type="text" class="form-control" id="studentId" name="StudentId" required asp-for="StudentId"  value="A1101"  />
+            </div>
+            <div class="form-group">
+                <label class="form-label">Subject</label>
+                <input type="text" class="form-control" id="subject" name="Subject" required asp-for="Subject"  value="Maths"  />
+            </div>
+            <div class="form-group">
+                <label class="form-label">Current Knowledge</label>
+                <input type="text" class="form-control" id="currentKnowledge" name="CurrentKnowledge" required asp-for="CurrentKnowledge"  value="Learnerd lot" />
+            </div>
+            <div class="form-group">
+                <label class="form-label">Date</label>
+                <input type="date" class="form-control" id="date" name="Date" required asp-for="Date"  value="2024-06-30"  />
+            </div>
+            <div class="form-group">
+                <label class="form-label">Study Duration</label>
+                <div class="row">
+                    <div class="col">
+                        <input type="number" class="form-control" id="studyHours" name="StudyHours" placeholder="Hours" required asp-for="StudyHours"  value="1"  />
+                    </div>
+                    <div class="col">
+                        <input type="number" class="form-control" id="studyMinutes" name="StudyMinutes" placeholder="Minutes" required asp-for="StudyMinutes"  value="1"  />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Break Duration</label>
+                <div class="row">
+                    <div class="col">
+                        <input type="number" class="form-control" id="breakHours" name="BreakHours" placeholder="Hours" required asp-for="BreakHours"   value="1" />
+                    </div>
+                    <div class="col">
+                        <input type="number" class="form-control" id="breakMinutes" name="BreakMinutes" placeholder="Minutes" required asp-for="BreakMinutes"  value="1" />
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
+
+
+

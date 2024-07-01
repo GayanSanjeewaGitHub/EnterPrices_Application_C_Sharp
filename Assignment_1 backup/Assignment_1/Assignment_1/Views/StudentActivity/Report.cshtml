@@ -1,0 +1,32 @@
+﻿@model List<Assignment_1.Models.WeeklyReportViewModel>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Report</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Weekly Report</h1>
+        @foreach (var report in Model)
+        {
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h2>@report.Subject</h2>
+                    </div>
+                    <div class="card-body">
+                        <p><strong>Student ID:</strong> @report.StudentId</p>
+                        <p><strong>Week Period:</strong> @report.WeekStartAndEndDate</p>
+                        <p><strong>Total Study Time for Current Week:</strong> @report.TotalStudyTimeForCurrentWeek</p>
+                        <p><strong>Total Break Time for Current Week:</strong> @report.TotalBreakTimeForCurrentWeek</p>
+                        <p><strong>Grade for This Week:</strong> @report.GradeForThisWeek</p>
+                        <p><strong>Predicted Grade for Upcoming Week:</strong> @report.GradeForUpcomingWeek</p>
+                    </div>
+                </div>
+        }
+    </div>
+</body>
+</html>

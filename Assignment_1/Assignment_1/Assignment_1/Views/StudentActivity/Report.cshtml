@@ -1,0 +1,83 @@
+﻿@model List<Assignment_1.Models.WeeklyReportViewModel>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Report</title>
+      <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <style>
+        .card-header {
+            background-color: #007bff;
+            color: white;
+        }
+        .table thead {
+            background-color: #007bff;
+            color: white;
+        }
+        .table tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .table tbody tr:nth-child(odd) {
+            background-color: #ffffff;
+        }
+        .table td, .table th {
+            padding: 12px;
+            vertical-align: middle;
+        }
+        .total-summary {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .total-summary p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Analytics Report of Studied Subjects</h1>
+        @foreach (var report in Model)
+        {
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h2>@report.Subject</h2>
+                    </div>
+                    <div class="card-body">
+                        <p><strong>Student ID:</strong> @report.StudentId</p>
+                        <p><strong>Week Period:</strong> @report.WeekStartAndEndDate</p>
+                        <div class="table-responsive mt-3">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Date</th>
+                                        <th>Daily Total Study Hours</th>
+                                        <th>Daily Total Break Hours</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                @foreach (var dailyActivity in report.DailyActivities)
+                                {
+                                            <tr>
+                                                <td>@dailyActivity.Date.ToShortDateString()</td>
+                                                <td>@dailyActivity.DailyStudyTime.ToString("F2")</td>
+                                                <td>@dailyActivity.DailyBreakTime.ToString("F2")</td>
+                                            </tr>
+                                }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="total-summary mt-4">
+                            <p><strong>Total Study Time for Current Week:</strong> @report.TotalStudyTimeForCurrentWeek.ToString("F2")</p>
+                            <p><strong>Total Break Time for Current Week:</strong> @report.TotalBreakTimeForCurrentWeek.ToString("F2")</p>
+                            <p><strong>Grade for This Week:</strong> @report.GradeForThisWeek</p>
+                            <p><strong>Predicted Grade for Upcoming Week:</strong> @report.GradeForUpcomingWeek</p>
+                        </div>
+                    </div>
+                </div>
+        }
+    </div>
+</body>
+</html>

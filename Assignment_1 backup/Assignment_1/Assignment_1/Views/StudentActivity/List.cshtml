@@ -1,0 +1,52 @@
+﻿@model List<Assignment_1.Models.Entities.StudentActivityTrackRecord>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity List</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Activity List</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Student Id</th>
+                    <th scope="col">Subject</th>
+                    <th scope="col">Current Knowledge</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">Study Duration</th>
+                    <th scope="col">Break Duration</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var activity in Model)
+                {
+                        <tr>
+                            <td>@activity.Id</td>
+                            <td>@activity.StudentId</td>
+                            <td>@activity.Subject</td>
+                            <td>@activity.CurrentKnowledge</td>
+                            <td>@activity.Date.ToShortDateString()</td>
+                            <td>@activity.StudyDuration</td>
+                            <td>@activity.BreakDuration</td>
+                            <td>
+                                <a href="@Url.Action("Edit", "StudentActivity", new { id = activity.Id })" class="btn btn-primary">Edit</a>
+                            </td>
+                            <td>
+                                <form method="post" asp-action="Delete" asp-route-id="@activity.Id" style="display:inline;">
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
