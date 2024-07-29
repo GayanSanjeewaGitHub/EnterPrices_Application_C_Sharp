@@ -1,0 +1,104 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/StudentActivity/Add", 
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7214"
+        }
+      ],
+      "UpstreamPathTemplate": "/records/add",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/StudentActivity/Add", 
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7214"
+        }
+      ],
+      "UpstreamPathTemplate": "/",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/StudentActivity/List",  
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7214"
+        }
+      ],
+      "UpstreamPathTemplate": "/StudentActivity/List",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/StudentActivity/Edit?id={id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7214"
+        }
+      ],
+      "UpstreamPathTemplate": "/StudentActivity/Edit?id={id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/StudentActivity/Edit?id={id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7214"
+        }
+      ],
+      "UpstreamPathTemplate": "/StudentActivity/Edit?id={id}",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/StudentActivity/Delete?id={id}", //work
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7214"
+        }
+      ],
+      "UpstreamPathTemplate": "/StudentActivity/Delete?id={id}",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/",  
+      "DownstreamScheme": "wss",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7024"
+        }
+      ],
+      "UpstreamPathTemplate": "/report-service",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/StudentActivity/Report", 
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7024"
+        }
+      ],
+      "UpstreamPathTemplate": "/StudentActivity/Report",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7214"
+  }
+}

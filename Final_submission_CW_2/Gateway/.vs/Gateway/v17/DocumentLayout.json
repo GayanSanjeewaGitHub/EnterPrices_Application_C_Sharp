@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|d:\\msc\\iit\\enterprices application development\\submission 2\\assignment_2\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|d:\\msc\\iit\\enterprices application development\\submission 2\\assignment_2\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|solutionrelative:ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|d:\\msc\\iit\\enterprices application development\\submission 2\\assignment_2\\gateway\\gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|solutionrelative:gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|d:\\msc\\iit\\enterprices application development\\submission 2\\assignment_2\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|d:\\msc\\iit\\enterprices application development\\submission 2\\assignment_2\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF4F02E-309C-4F3C-9C81-24F8CC187407}|Gateway.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T00:22:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T00:22:44.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ocelot.json",
+              "ToolTip": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\ocelot.json",
+              "RelativeToolTip": "ocelot.json",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAEwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T23:22:16.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gateway.http",
+              "DocumentMoniker": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\Gateway.http",
+              "RelativeDocumentMoniker": "Gateway.http",
+              "ToolTip": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\Gateway.http",
+              "RelativeToolTip": "Gateway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-28T23:22:13.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\MSC\\IIT\\Enterprices Application development\\Submission 2\\Assignment_2\\Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T23:22:08.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

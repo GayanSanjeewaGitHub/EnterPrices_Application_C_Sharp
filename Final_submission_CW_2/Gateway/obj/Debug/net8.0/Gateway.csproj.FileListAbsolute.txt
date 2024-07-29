@@ -1,0 +1,115 @@
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\ocelot.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.exe
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.deps.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.runtimeconfig.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.pdb
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.AssemblyInfo.cs
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.sourcelink.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Gateway.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gateway.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gateway.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.csproj.Up2Date
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\refint\Gateway.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.pdb
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.genruntimeconfig.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\Gateway\obj\Debug\net8.0\ref\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\appsettings.Development.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\appsettings.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\ocelot.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.exe
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.deps.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.runtimeconfig.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Gateway.pdb
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\FluentValidation.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\bin\Debug\net8.0\Ocelot.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.csproj.AssemblyReference.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.AssemblyInfoInputs.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.AssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.csproj.CoreCompileInputs.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Gateway.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gateway.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gateway.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\scopedcss\bundle\Gateway.styles.css
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.csproj.Up2Date
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\refint\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.pdb
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\Gateway.genruntimeconfig.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\Gateway\obj\Debug\net8.0\ref\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\appsettings.Development.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\appsettings.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\ocelot.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Gateway.exe
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Gateway.deps.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Gateway.runtimeconfig.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Gateway.pdb
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\FluentValidation.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\bin\Debug\net8.0\Ocelot.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.csproj.AssemblyReference.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.AssemblyInfoInputs.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.AssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.csproj.CoreCompileInputs.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Gateway.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gateway.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gateway.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\scopedcss\bundle\Gateway.styles.css
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.csproj.Up2Date
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\refint\Gateway.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.pdb
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\Gateway.genruntimeconfig.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\Gateway\obj\Debug\net8.0\ref\Gateway.dll

@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\controllers\\studentactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\assignment_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0D23E-8C6B-4AEB-8DD7-3F63AD3F9F73}|..\\Gateway\\Gateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\assignment_2\\controllers\\studentactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|solutionrelative:controllers\\studentactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0D23E-8C6B-4AEB-8DD7-3F63AD3F9F73}|..\\Gateway\\Gateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0D23E-8C6B-4AEB-8DD7-3F63AD3F9F73}|..\\Gateway\\Gateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\gateway\\gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0D23E-8C6B-4AEB-8DD7-3F63AD3F9F73}|..\\Gateway\\Gateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0D23E-8C6B-4AEB-8DD7-3F63AD3F9F73}|..\\Gateway\\Gateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\assignment_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF0BFA2-ABD7-42DE-9BB7-086809C7190C}|..\\APIGateway\\APIGateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FE1030-75EC-4849-8926-523E64D3EDEE}|..\\ReportService\\ReportService.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\reportservice\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\assignment_2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C14FEB75-6776-4BAA-BAFB-A323A8A5D3C4}|Assignment_1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF0BFA2-ABD7-42DE-9BB7-086809C7190C}|..\\APIGateway\\APIGateway.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_2\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Controllers\\StudentActivityController.cs",
+              "RelativeDocumentMoniker": "..\\ReportService\\Controllers\\StudentActivityController.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Controllers\\StudentActivityController.cs",
+              "RelativeToolTip": "..\\ReportService\\Controllers\\StudentActivityController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:11:33.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T10:40:56.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ReportService\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\ReportService\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T02:46:14.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ReportService\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ReportService\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T02:42:31.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T12:44:43.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\APIGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\APIGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\APIGateway\\appsettings.json",
+              "RelativeToolTip": "..\\APIGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T12:44:21.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\APIGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "..\\APIGateway\\ocelot.json",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T12:44:07.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T12:42:53.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gateway.http",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\Gateway.http",
+              "RelativeDocumentMoniker": "..\\Gateway\\Gateway.http",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\Gateway.http",
+              "RelativeToolTip": "..\\Gateway\\Gateway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-27T12:42:42.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ReportService\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ReportService\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:03:57.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\Controllers\\StudentActivityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentActivityController.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\Controllers\\StudentActivityController.cs",
+              "RelativeToolTip": "Controllers\\StudentActivityController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:33:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\Gateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\ocelot.json",
+              "RelativeToolTip": "..\\Gateway\\ocelot.json",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T12:37:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\Program.cs",
+              "RelativeToolTip": "..\\Gateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:42:14.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Gateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Gateway\\appsettings.json",
+              "RelativeToolTip": "..\\Gateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T12:42:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ReportService\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\appsettings.json",
+              "RelativeToolTip": "..\\ReportService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T02:50:53.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\Assignment_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T03:11:31.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\ReportService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\ReportService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T03:03:46.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ReportService\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Program.cs",
+              "RelativeToolTip": "..\\ReportService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:50:59.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\ReportService\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_2\\ReportService\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\ReportService\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T02:46:16.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

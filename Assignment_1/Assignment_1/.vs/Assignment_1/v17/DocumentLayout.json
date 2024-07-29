@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_1\\assignment_1\\assignment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_1\\assignment_1\\assignment_1\\controllers\\studentactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\controllers\\studentactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\views\\studentactivity\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_1\\assignment_1\\assignment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_1\\assignment_1\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C412CB-188C-44B5-A9DE-EA8C1F8BE04F}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,24 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeeklyReportViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\WeeklyReportViewModel.cs",
-              "RelativeDocumentMoniker": "Assignment_1\\Models\\WeeklyReportViewModel.cs",
-              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\WeeklyReportViewModel.cs",
-              "RelativeToolTip": "Assignment_1\\Models\\WeeklyReportViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T13:09:08.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Assignment_1\\Views\\Shared\\_Layout.cshtml",
@@ -103,12 +90,11 @@
               "RelativeToolTip": "Assignment_1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T08:22:54.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T08:22:54.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\Edit.cshtml",
               "RelativeDocumentMoniker": "Assignment_1\\Views\\StudentActivity\\Edit.cshtml",
@@ -116,12 +102,11 @@
               "RelativeToolTip": "Assignment_1\\Views\\StudentActivity\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T14:32:16.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T14:32:16.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentActivityTrackRecord.cs",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\Entities\\StudentActivityTrackRecord.cs",
               "RelativeDocumentMoniker": "Assignment_1\\Models\\Entities\\StudentActivityTrackRecord.cs",
@@ -129,12 +114,11 @@
               "RelativeToolTip": "Assignment_1\\Models\\Entities\\StudentActivityTrackRecord.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T14:43:10.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T14:43:10.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentActivityController.cs",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Controllers\\StudentActivityController.cs",
               "RelativeDocumentMoniker": "Assignment_1\\Controllers\\StudentActivityController.cs",
@@ -142,12 +126,11 @@
               "RelativeToolTip": "Assignment_1\\Controllers\\StudentActivityController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T08:08:55.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T08:08:55.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Assignment_1\\Models\\ErrorViewModel.cs",
@@ -155,12 +138,11 @@
               "RelativeToolTip": "Assignment_1\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:28:31.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T15:28:31.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AddActivityViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\AddActivityViewModel.cs",
               "RelativeDocumentMoniker": "Assignment_1\\Models\\AddActivityViewModel.cs",
@@ -168,12 +150,11 @@
               "RelativeToolTip": "Assignment_1\\Models\\AddActivityViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:28:29.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T15:28:29.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Assignment_1\\Controllers\\HomeController.cs",
@@ -181,12 +162,11 @@
               "RelativeToolTip": "Assignment_1\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:28:27.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T15:28:27.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\Add.cshtml",
               "RelativeDocumentMoniker": "Assignment_1\\Views\\StudentActivity\\Add.cshtml",
@@ -194,77 +174,11 @@
               "RelativeToolTip": "Assignment_1\\Views\\StudentActivity\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T15:09:41.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T15:09:41.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Report.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\Report.cshtml",
-              "RelativeDocumentMoniker": "Assignment_1\\Views\\StudentActivity\\Report.cshtml",
-              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\Report.cshtml",
-              "RelativeToolTip": "Assignment_1\\Views\\StudentActivity\\Report.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAYwEsAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T08:27:30.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\List.cshtml",
-              "RelativeDocumentMoniker": "Assignment_1\\Views\\StudentActivity\\List.cshtml",
-              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\List.cshtml",
-              "RelativeToolTip": "Assignment_1\\Views\\StudentActivity\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T15:09:52.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Assignment_1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Assignment_1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T15:10:02.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Assignment_1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Assignment_1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T15:10:05.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Assignment_1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Assignment_1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T08:23:07.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\appsettings.json",
               "RelativeDocumentMoniker": "Assignment_1\\appsettings.json",
@@ -272,7 +186,80 @@
               "RelativeToolTip": "Assignment_1\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-30T08:20:37.893Z"
+              "WhenOpened": "2024-06-30T08:20:37.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeeklyReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\WeeklyReportViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Models\\WeeklyReportViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Models\\WeeklyReportViewModel.cs",
+              "RelativeToolTip": "Assignment_1\\Models\\WeeklyReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:09:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\Report.cshtml",
+              "RelativeDocumentMoniker": "Assignment_1\\Views\\StudentActivity\\Report.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\Report.cshtml",
+              "RelativeToolTip": "Assignment_1\\Views\\StudentActivity\\Report.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:27:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\List.cshtml",
+              "RelativeDocumentMoniker": "Assignment_1\\Views\\StudentActivity\\List.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\StudentActivity\\List.cshtml",
+              "RelativeToolTip": "Assignment_1\\Views\\StudentActivity\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:09:52.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Assignment_1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Assignment_1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:10:02.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment_1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment_1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:10:05.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment_1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Assignment_1\\Assignment_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment_1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T08:23:07.943Z"
             },
             {
               "$type": "Document",

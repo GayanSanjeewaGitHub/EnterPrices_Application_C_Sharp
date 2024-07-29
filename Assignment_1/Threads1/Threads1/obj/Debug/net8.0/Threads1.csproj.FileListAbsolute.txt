@@ -1,0 +1,15 @@
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\bin\Debug\net8.0\Threads1.exe
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\bin\Debug\net8.0\Threads1.deps.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\bin\Debug\net8.0\Threads1.runtimeconfig.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\bin\Debug\net8.0\Threads1.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\bin\Debug\net8.0\Threads1.pdb
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.AssemblyInfoInputs.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.AssemblyInfo.cs
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.sourcelink.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\refint\Threads1.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.pdb
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\Threads1.genruntimeconfig.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_1\Threads1\Threads1\obj\Debug\net8.0\ref\Threads1.dll

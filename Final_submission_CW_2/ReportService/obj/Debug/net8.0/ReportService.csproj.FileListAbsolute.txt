@@ -1,0 +1,412 @@
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\appsettings.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.staticwebassets.runtime.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.exe
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.deps.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.runtimeconfig.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.pdb
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.csproj.AssemblyReference.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.AssemblyInfoInputs.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.AssemblyInfo.cs
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.RazorAssemblyInfo.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.RazorAssemblyInfo.cs
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.sourcelink.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.ReportService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportService.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportService.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportService.props
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\scopedcss\bundle\ReportService.styles.css
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\scopedcss\projectbundle\ReportService.bundle.scp.css
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportSe.B238185B.Up2Date
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\refint\ReportService.dll
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.pdb
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.genruntimeconfig.cache
+C:\Users\MSI KATANA\Documents\GITHUB_FULL_REPO\EnterPrices_Application_C_Sharp\Assignment_2\ReportService\obj\Debug\net8.0\ref\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\appsettings.Development.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\appsettings.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.staticwebassets.runtime.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.exe
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.deps.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.runtimeconfig.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ReportService.pdb
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Azure.Core.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Azure.Identity.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Humanizer.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.CodeDom.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Text.Json.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.csproj.AssemblyReference.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.AssemblyInfoInputs.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.AssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.csproj.CoreCompileInputs.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.MvcApplicationPartsAssemblyInfo.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.RazorAssemblyInfo.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.RazorAssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets.build.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets.development.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.ReportService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportService.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportService.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportService.props
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\scopedcss\bundle\ReportService.styles.css
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\scopedcss\projectbundle\ReportService.bundle.scp.css
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportSe.B238185B.Up2Date
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\refint\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.pdb
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ReportService.genruntimeconfig.cache
+D:\MSC\IIT\Enterprices Application development\Submission 2\Assignment_2\ReportService\obj\Debug\net8.0\ref\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\appsettings.Development.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\appsettings.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ReportService.staticwebassets.runtime.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ReportService.exe
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ReportService.deps.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ReportService.runtimeconfig.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ReportService.pdb
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Azure.Core.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Azure.Identity.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Humanizer.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.CodeDom.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Text.Json.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.csproj.AssemblyReference.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.AssemblyInfoInputs.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.AssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.csproj.CoreCompileInputs.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.MvcApplicationPartsAssemblyInfo.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.RazorAssemblyInfo.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.RazorAssemblyInfo.cs
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets.build.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets.development.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.ReportService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportService.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportService.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportService.props
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\scopedcss\bundle\ReportService.styles.css
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\scopedcss\projectbundle\ReportService.bundle.scp.css
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportSe.B238185B.Up2Date
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\refint\ReportService.dll
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.pdb
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ReportService.genruntimeconfig.cache
+D:\MSC\IIT\Enterprices Application development\Final_submission_CW_2\ReportService\obj\Debug\net8.0\ref\ReportService.dll

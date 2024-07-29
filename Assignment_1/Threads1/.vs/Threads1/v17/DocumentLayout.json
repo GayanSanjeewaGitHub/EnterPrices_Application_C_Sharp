@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Threads1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05674001-709B-4EA0-8277-CBAB6111D9F6}|Threads1\\Threads1.csproj|c:\\users\\msi katana\\documents\\github_full_repo\\enterprices_application_c_sharp\\assignment_1\\threads1\\threads1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05674001-709B-4EA0-8277-CBAB6111D9F6}|Threads1\\Threads1.csproj|solutionrelative:threads1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Threads1\\Threads1\\Program.cs",
+              "RelativeDocumentMoniker": "Threads1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI KATANA\\Documents\\GITHUB_FULL_REPO\\EnterPrices_Application_C_Sharp\\Assignment_1\\Threads1\\Threads1\\Program.cs",
+              "RelativeToolTip": "Threads1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:04:32.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
